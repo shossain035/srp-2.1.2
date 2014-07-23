@@ -1,3 +1,0 @@
-sgroupio.o: sgroupio.c ../config.h
-
-../config.h:

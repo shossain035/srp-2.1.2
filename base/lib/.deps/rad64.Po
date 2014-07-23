@@ -1,5 +1,0 @@
-rad64.o: rad64.c ../config.h rcsid.h
-
-../config.h:
-
-rcsid.h:

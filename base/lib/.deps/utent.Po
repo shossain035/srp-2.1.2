@@ -1,3 +1,0 @@
-utent.o: utent.c ../config.h
-
-../config.h:
