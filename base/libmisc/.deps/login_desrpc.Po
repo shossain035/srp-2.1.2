@@ -1,0 +1,3 @@
+login_desrpc.o: login_desrpc.c ../config.h
+
+../config.h:

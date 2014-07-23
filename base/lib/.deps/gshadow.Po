@@ -1,0 +1,3 @@
+gshadow.o: gshadow.c ../config.h
+
+../config.h:

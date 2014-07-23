@@ -1,0 +1,3 @@
+pam_pass.o: pam_pass.c ../config.h
+
+../config.h:

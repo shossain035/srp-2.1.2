@@ -1,0 +1,3 @@
+shadow.o: shadow.c ../config.h
+
+../config.h:
